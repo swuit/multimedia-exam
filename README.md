@@ -1,3 +1,19 @@
-# My Awesome Book
+# 多媒体技术应用教程考试重点
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+本书为西南大学多媒体技术应用教程考试重点，方便同学们复习。
+
+## 考试题型
+
+- 选择
+- 填空
+- 判断
+- 综合
+
+## 考试范围
+
+- 全书1-10章
+- 不考具体操作部分
+
+## 完善本书
+
+考试重点这种东西，还是要学霸来...
