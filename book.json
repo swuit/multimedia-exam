@@ -1,5 +1,8 @@
 {
     "plugins": [
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        appid: 'cys9GLIJ1',
+        conf: 'prod_598eaec758105fc81f665bd0eb9f895a'
+    }
 }
