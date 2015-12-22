@@ -2,7 +2,7 @@
     "plugins": [
         "baidu",
         "betterchinese",
-        "changyan"
+        "-changyan"
     ],
     "pluginsConfig": {}
 }
