@@ -1,8 +1,5 @@
 {
     "plugins": [
-        "-baidu",
-        "betterchinese",
-        "changyan"
     ],
     "pluginsConfig": {}
 }
