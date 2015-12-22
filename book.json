@@ -1,5 +1,6 @@
 {
     "plugins": [
+        "changyan"
     ],
     "pluginsConfig": {
         appid: 'cys9GLIJ1',
