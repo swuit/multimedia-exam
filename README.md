@@ -34,4 +34,6 @@
 
 开源协议：Apache License v2.0
 
-## PDF格式下载
+## 其他格式下载
+
+点这里下载:[PDF](multimedia.pdf)
