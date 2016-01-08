@@ -36,4 +36,4 @@
 
 ## 其他格式下载
 
-点这里下载:[PDF](multimedia.pdf)
+点这里下载:[PDF](book.pdf)
