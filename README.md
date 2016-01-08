@@ -16,4 +16,22 @@
 
 ## 完善本书
 
-考试重点这种东西，还是要学霸来...
+本书所有章节已经基本写完了，但是写的过程中难免有各种错误与不足，希望大家在看的时候可以顺便指出。
+
+## 本书作者
+
+本书为3人合作完成，下面是他们的github用户名，在此衷心感谢他们！
+
+- [AlinSu](https://github.com/AlinSu)
+- [Aphrodite3](https://github.com/Aphrodite3)
+- [swumao](https://github.com/swumao)
+
+详情请看[这里](https://github.com/swuit/multimedia-exam/graphs/contributors)
+
+## 版权申明
+
+本书系作者们无偿贡献，是西大IT技术社区的产物，如有需要转载或出版，请注明西大IT技术社区出品。
+
+开源协议：Apache License v2.0
+
+## PDF格式下载
